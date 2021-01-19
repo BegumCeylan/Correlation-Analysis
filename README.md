@@ -1,7 +1,7 @@
 # Correlation-Analysis
 <h1>Correlation Analysis Between Atrributes and the Target </h1>
 
-The dataset provided is from a study of heart disease. The study collects various measurements on patient health and cardiovascular statistics, and of course makes patient identities anonymous.
+The dataset (HeartDisease.csv) provided is from a study of heart disease. The study collects various measurements on patient health and cardiovascular statistics, and of course makes patient identities anonymous.
 
 Feature, Type, Description
 01. age         - int      - Age of patient (in years)
